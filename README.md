@@ -2,7 +2,7 @@
 
 I'm a Data Processing Analyst working in Minas Gerais, Brazil.
 
-#### Tools I use on a daily basis:
+#### Tools I use daily:
 * SQL Server
 * Python
 * Pentaho
