@@ -6,7 +6,6 @@ I'm a Data Processing Analyst working in Minas Gerais, Brazil.
 * SQL Server
 * Python
 * Pentaho
-* Git
 
 #### Now
 
