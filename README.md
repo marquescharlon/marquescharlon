@@ -21,8 +21,8 @@ For those who also want it, I recommend the website https://desenvolvedor.io/
 
 <div align="left">
   <a href="https://github.com/marquescharlon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquescharlon&show_icons=true&theme=none&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquescharlon&layout=compact&langs_count=7&theme=none"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquescharlon&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquescharlon&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 
