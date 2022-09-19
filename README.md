@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/marquescharlon/
 * Developing new skills in Python and C#
 - [x] ~Iniciando com ASP.NET Core~ `(100% Completo)`
 - [ ] Dominando o ASP.NET MVC Core `(73% Completo)`
-- [ ] REST com ASP.NET Core WebAPI `(30% Completo)`
+- [ ] REST com ASP.NET Core WebAPI `(38% Completo)`
 - [ ] ASP.NET Core Enterprise Applications `(0% Completo)`
 
 For those who also want it, I recommend the website https://desenvolvedor.io/
