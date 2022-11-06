@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm a Data Processing Analyst working in Minas Gerais, Brazil.<br/>
-LinkedIn: https://www.linkedin.com/in/marquescharlon/
 
 #### Tools I use daily:
 * SQL Server
