@@ -1,25 +1,22 @@
-### Hi there 👋
+### Olá 👋
 
-I'm a Data Processing Analyst working in Minas Gerais, Brazil.<br/>
+Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas. Neste repositório encontrará algumas aplicações para a solução de determinados problemas enfrentados no meu dia-a-dia, desenvolvido em diferentes linguagens de programação.
 
-#### Tools I use daily:
+#### Ferramentas utilizadas diariamente:
 * SQL Server
 * Python
 * Pentaho
 
-#### Now
+#### Novas
+* Desenvolvendo novas skills em C# e .NET
 
-* Developing new skills in C# e .NET
-
-<!--
 - [x] ~Iniciando com ASP.NET Core~ `(100% Completo)`
+- [x] ~Fundamentos do C#~ `(100% Completo)`
 - [ ] Dominando o ASP.NET MVC Core `(73% Completo)`
 - [ ] REST com ASP.NET Core WebAPI `(38% Completo)`
-- [ ] ASP.NET Core Enterprise Applications `(0% Completo)`
 
-For those who also want it, I recommend the website https://desenvolvedor.io/
+Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/
 
--->
 
 <div><a href="https://www.youtube.com/channel/UChikU423HtvQDp-vH2ITYIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://instagram.com/marquescharlon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marquescharlon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </br>
