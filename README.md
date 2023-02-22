@@ -1,14 +1,6 @@
 ### Olá 👋
 
-Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas. Neste repositório encontrará algumas aplicações para a solução de determinados problemas enfrentados no meu dia-a-dia, desenvolvido em diferentes linguagens de programação.
-
-#### Ferramentas utilizadas diariamente:
-* SQL Server
-* Python
-* Pentaho
-
-#### Novas
-* Desenvolvendo novas skills em C# e .NET
+Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C# e .NET
 
 - [x] ~Iniciando com ASP.NET Core~ `(100% Completo)`
 - [x] ~Fundamentos do C#~ `(100% Completo)`
