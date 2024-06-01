@@ -1,7 +1,6 @@
 ### Olá 👋
 
-<!-- Trabalhando como <b>Analista e Desenvolvedor de Sistemas</b> na <b>[Consul Cooperativa](https://www.consul.coop.br/)</b>. -->
-Trabalhando como <b>Analista e Desenvolvedor de Sistemas</b> na <b><a href="https://dotnet.microsoft.com/pt-br/" target="_blank">Consul Cooperativa</a></b>.
+Trabalhando como <b>Analista e Desenvolvedor de Sistemas</b> na <b>[Consul Cooperativa](https://www.consul.coop.br/)</b>.
 
 <hr>
 
