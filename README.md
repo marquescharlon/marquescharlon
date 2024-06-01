@@ -2,8 +2,12 @@
 
 Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C# e .NET
 
-- [x] ~Iniciando com ASP.NET Core~ `(100% Completo)`
 - [x] ~Fundamentos do C#~ `(100% Completo)`
+- [x] ~ASP.NET~ `(100% Completo)`
+- [x] ~Introdução ao DevOps~ `(100% Completo)`
+- [x] ~Desenvolvimento SPA com Angular~ `(100% Completo)`
+- [x] ~Docker do Zero ao Avançado~ `(100% Completo)`
+- [ ] Kubernetes `(90% Completo)`
 - [ ] Dominando o ASP.NET MVC Core `(73% Completo)`
 - [ ] REST com ASP.NET Core WebAPI `(38% Completo)`
 
