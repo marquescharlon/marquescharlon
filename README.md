@@ -37,9 +37,8 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 - [ ] REST com ASP.NET Core WebAPI `(38% Completo)`
 
 -->
-<a href="https://dotnet.microsoft.com/pt-br/" onclick="window.open(this.href,'_blank');return false;"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
       
-<a href="https://dotnet.microsoft.com/pt-br/" onclick="window.open(this.href, '_blank'); return false;" title=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/" id="dotnet-link" title=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" title="C#"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
 <a href="https://www.python.org/" target="_blank" title="Python"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/f9fae115-6002-4ea7-bfee-7e9d3e774632" /></a>
 <a href="https://angular.dev/" target="_blank" title="Angular"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/bb476905-f69f-418f-a33c-75ccd47002aa" /></a>
@@ -51,6 +50,12 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" title="SQL Server"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d061dfc3-6267-4035-a20f-a0644024c688" /></a>
 <a href="https://www.oracle.com/br/database/" target="_blank" title="Oracle"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/02477416-0a8b-4460-891c-0283024d7ada" /></a>
 
+<script>
+    document.getElementById("dotnet-link").addEventListener("click", function(event) {
+        event.preventDefault();
+        window.open(this.href, '_blank');
+    });
+</script>
 
 <!-- Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/ -->
 
