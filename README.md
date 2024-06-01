@@ -40,6 +40,7 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
       
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" alt=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901" /></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" alt="C#"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
+<a href="https://www.python.org/" target="_blank" alt="Python"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/f9fae115-6002-4ea7-bfee-7e9d3e774632" /></a>
 <a href="https://angular.dev/" target="_blank" alt="Angular"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/bb476905-f69f-418f-a33c-75ccd47002aa" /></a>
 <a href="https://get.foundation/" target="_blank" alt="Zurb Foundation"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/1648a314-f839-4c4b-ac62-658b66105c80" /></a>
 <a href="https://gitforwindows.org/" target="_blank" alt="Git For Windows"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/4e315d79-9d80-4f60-9c36-afeae6221a1a" /></a>
