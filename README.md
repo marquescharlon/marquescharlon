@@ -38,7 +38,7 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 
 -->
       
-<a href="https://dotnet.microsoft.com/pt-br/" target="_blank" alt=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank" alt=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" alt="C#"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
 <a href="https://www.python.org/" target="_blank" alt="Python"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/f9fae115-6002-4ea7-bfee-7e9d3e774632" /></a>
 <a href="https://angular.dev/" target="_blank" alt="Angular"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/bb476905-f69f-418f-a33c-75ccd47002aa" /></a>
