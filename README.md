@@ -37,6 +37,7 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 - [ ] REST com ASP.NET Core WebAPI `(38% Completo)`
 
 -->
+<a href="https://dotnet.microsoft.com/pt-br/" onclick="window.open(this.href,'_blank');return false;"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
       
 <a href="https://dotnet.microsoft.com/pt-br/" onclick="window.open(this.href, '_blank'); return false;" title=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" title="C#"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
