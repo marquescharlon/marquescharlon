@@ -38,17 +38,17 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 
 -->
       
-<a href="https://dotnet.microsoft.com/pt-br/" target="_blank" title=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" alt="C#"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
-<a href="https://www.python.org/" target="_blank" alt="Python"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/f9fae115-6002-4ea7-bfee-7e9d3e774632" /></a>
-<a href="https://angular.dev/" target="_blank" alt="Angular"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/bb476905-f69f-418f-a33c-75ccd47002aa" /></a>
-<a href="https://get.foundation/" target="_blank" alt="Zurb Foundation"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/1648a314-f839-4c4b-ac62-658b66105c80" /></a>
-<a href="https://gitforwindows.org/" target="_blank" alt="Git For Windows"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/4e315d79-9d80-4f60-9c36-afeae6221a1a" /></a>
-<a href="https://www.docker.com/" target="_blank" alt="Docker"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/e829512b-5fcc-4c92-95d2-440019e97e5b" /></a>
-<a href="https://kubernetes.io/pt-br/" target="_blank" alt="Kubernetes"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/eaa81bbc-31f0-41bb-85eb-6d0a4db8874f" /></a>
-<a href="https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-devops" target="_blank" alt="DevOps"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/6230dfd4-0f16-4988-8a3a-fe2ef6ad2f93" /></a>
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" alt="SQL Server"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d061dfc3-6267-4035-a20f-a0644024c688" /></a>
-<a href="https://www.oracle.com/br/database/" target="_blank" alt="Oracle"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/02477416-0a8b-4460-891c-0283024d7ada" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/" onclick="window.open(this.href, '_blank'); return false;" title=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" title="C#"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
+<a href="https://www.python.org/" target="_blank" title="Python"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/f9fae115-6002-4ea7-bfee-7e9d3e774632" /></a>
+<a href="https://angular.dev/" target="_blank" title="Angular"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/bb476905-f69f-418f-a33c-75ccd47002aa" /></a>
+<a href="https://get.foundation/" target="_blank" title="Zurb Foundation"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/1648a314-f839-4c4b-ac62-658b66105c80" /></a>
+<a href="https://gitforwindows.org/" target="_blank" title="Git For Windows"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/4e315d79-9d80-4f60-9c36-afeae6221a1a" /></a>
+<a href="https://www.docker.com/" target="_blank" title="Docker"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/e829512b-5fcc-4c92-95d2-440019e97e5b" /></a>
+<a href="https://kubernetes.io/pt-br/" target="_blank" title="Kubernetes"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/eaa81bbc-31f0-41bb-85eb-6d0a4db8874f" /></a>
+<a href="https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-devops" target="_blank" title="DevOps"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/6230dfd4-0f16-4988-8a3a-fe2ef6ad2f93" /></a>
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" title="SQL Server"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d061dfc3-6267-4035-a20f-a0644024c688" /></a>
+<a href="https://www.oracle.com/br/database/" target="_blank" title="Oracle"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/02477416-0a8b-4460-891c-0283024d7ada" /></a>
 
 
 <!-- Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/ -->
