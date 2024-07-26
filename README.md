@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Trabalhando como <b>Analista e Desenvolvedor de Sistemas</b> na <b>[Consul Cooperativa](https://www.consul.coop.br/)</b>.
+<b>Instrutor Técnico</b> com foco em Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
 
 <hr>
 
