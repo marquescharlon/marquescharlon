@@ -39,7 +39,8 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 -->
 
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" title=".NET"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d710d22f-ce60-405b-8b31-b4b48ae73901.png?raw=true" /></a>
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" title="C#"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" title="C#"><img height="25em" width="25em" src="https://github.com/user-attachments/assets/af32b5c3-d18a-435d-99c2-f51e046f970a" /></a>
+<a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="_blank" title="C++"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/7ac2862d-12e7-431c-b30a-d1b68c1bee76" /></a>
 <a href="https://www.python.org/" target="_blank" title="Python"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/f9fae115-6002-4ea7-bfee-7e9d3e774632" /></a>
 <a href="https://www.ruby-lang.org/pt/" target="_blank" title="Ruby"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/4b738939-b658-4ff4-870f-7c5433836254" /></a>
 <a href="https://angular.dev/" target="_blank" title="Angular"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/bb476905-f69f-418f-a33c-75ccd47002aa" /></a>
@@ -53,16 +54,7 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" title="SQL Server"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/d061dfc3-6267-4035-a20f-a0644024c688" /></a>
 <a href="https://www.oracle.com/br/database/" target="_blank" title="Oracle"><img height="25em" width="25em" src="https://github.com/marquescharlon/marquescharlon/assets/22162514/02477416-0a8b-4460-891c-0283024d7ada" /></a>
 
-
-
-
-
-
-
-
-
 <!-- Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/ -->
-
 
 <div><a href="https://www.youtube.com/channel/UChikU423HtvQDp-vH2ITYIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://instagram.com/marquescharlon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marquescharlon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </br>
