@@ -61,10 +61,6 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 <div><a href="https://www.youtube.com/channel/UChikU423HtvQDp-vH2ITYIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://instagram.com/marquescharlon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marquescharlon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </br>
 
-Te convido também acessar o Instragram Loja RS3D abaixo, lá compartilho alguns objetos impressos e modelados por mim.
-
-<a href="https://instagram.com/marquescharlon" target="_blank"><img src="https://img.shields.io/badge/-Loja RS3D-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 <!--
 <div align="left">
   <a href="https://github.com/marquescharlon">
