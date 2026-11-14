@@ -1,6 +1,6 @@
 ### Olá 👋
 
-<b>Instrutor Técnico</b> com foco em Informática e Desenvolvimento WEB no <b>[SENAI Minas Gerais](https://www.fiemg.com.br/senai/)</b>.
+Atuo como <b>Instrutor Técnico</b> com foco em Informática e Desenvolvimento WEB no <b>[SENAI Minas Gerais](https://www.fiemg.com.br/senai/)</b>.
 
 Atuação também em iniciativas da Indústria 4.0.
 
