@@ -1,6 +1,8 @@
 ### Olá 👋
 
-<b>Instrutor Técnico</b> com foco em Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
+<b>Instrutor Técnico</b> com foco em Informática e Desenvolvimento WEB no <b>[SENAI Minas Gerais](https://www.fiemg.com.br/senai/)</b>.
+
+Atuação também em iniciativas da Indústria 4.0.
 
 <hr>
 
@@ -23,8 +25,8 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 - [x] Introdução ao DevOps
 - [x] Desenvolvimento SPA com Angular
 - [x] Docker do Zero ao Avançado 
-- [ ] Kubernetes `(90% Completo)`
-- [ ] Dominando o ASP.NET MVC Core
+- [x] Kubernetes `(90% Completo)`
+- [x] Dominando o ASP.NET MVC Core
 - [ ] REST com ASP.NET Core WebAPI
 
 - [x] ~Fundamentos do C#~ `(100% Completo)`
@@ -59,6 +61,9 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 <div><a href="https://www.youtube.com/channel/UChikU423HtvQDp-vH2ITYIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://instagram.com/marquescharlon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/marquescharlon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </br>
 
+Te convido também acessar o Instragram Loja RS3D abaixo, lá compartilho alguns objetos impressos e modelados por mim.
+
+<a href="https://instagram.com/marquescharlon" target="_blank"><img src="https://img.shields.io/badge/-Loja RS3D-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <!--
 <div align="left">
